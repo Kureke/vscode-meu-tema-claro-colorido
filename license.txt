@@ -1,0 +1,5 @@
+Tema Livre, desenvolvido por Luis Henrique Kureke.
+
+Código disponível para download no GitHub, pode alterar a vontade!
+https://github.com/Kureke/vscode-meu-tema-claro-colorido
+

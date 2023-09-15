@@ -2,7 +2,7 @@
   "name": "meu-tema-claro-colorido",
   "displayName": "Meu Tema Claro Colorido",
   "description": "Um tema colorido com fundo branco para o VSCode.",
-  "version": "0.0.2",
+  "version": "0.0.16",
   "publisher": "Kureke",
   "icon": "images/icon.png",
   "categories": ["Themes"],
@@ -12,10 +12,63 @@
   "contributes": {
     "themes": [
       {
-        "label": "Meu Tema Claro Colorido.",
+        "label": "Meu Tema Claro Colorido Original",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido.json"
+        "path": "./themes/meu-tema-colorido-original.json",
+        "description": "Uma representação original e minimalista do Visual Studio Code em cores claras."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Vibrante",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-vibrante.json",
+        "description": "Uma paleta vibrante que destaca os principais elementos do editor."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Contemporâneo",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-contemp.json",
+        "description": "Um design moderno com cores suaves e tons equilibrados."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Clássico",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-classico.json",
+        "description": "Retorno às cores clássicas do passado, com uma reviravolta moderna."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Alto Contraste",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-contraste.json",
+        "description": "Maximizando a legibilidade com contrastes altos e cores distintas."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Mais Mal que o Capiroto",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-capeta.json",
+        "description": "Para quem quer se divertir com cores totalmente descoordenadas!"
       }
     ]
+  },
+  "screenshots": [
+    {
+      "path": "./screenshots/original-screenshot.png",
+      "description": "Meu Tema Claro Colorido Original em ação!"
+    },
+    {
+      "path": "./screenshots/vibrante-screenshot.png",
+      "description": "Meu Tema Claro Colorido Vibrante em ação!"
+    },
+    {
+      "path": "./screenshots/classico-screenshot.png",
+      "description": "Meu Tema Claro Colorido Vibrante em ação!"
+    },
+    {
+      "path": "./screenshots/contemp-screenshot.png",
+      "description": "Meu Tema Claro Contemporâneo Vibrante em ação!"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kureke/vscode-meu-tema-claro-colorido"
   }
 }
