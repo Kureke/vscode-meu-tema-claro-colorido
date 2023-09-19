@@ -10,6 +10,12 @@ Uma representação original e minimalista do Visual Studio Code em cores claras
 
 ![Original](screenshots/original-screenshot.png)
 
+### Meu Tema Escuro Colorido Vibrante
+
+Uma representação original e vibrante do Visual Studio Code em tema escuro.
+
+![Escuro Original](screenshots/original-e-screenshot.png)
+
 ### Meu Tema Claro Colorido Vibrante
 
 Uma paleta vibrante que destaca os principais elementos do editor.
