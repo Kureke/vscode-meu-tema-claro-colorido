@@ -2,7 +2,7 @@
   "name": "meu-tema-claro-colorido",
   "displayName": "Meu Tema Claro/Escuro Colorido",
   "description": "Um tema colorido com fundo claro/escuro para o VSCode.",
-  "version": "0.0.46",
+  "version": "0.0.53",
   "publisher": "Kureke",
   "icon": "images/icon.png",
   "categories": ["Themes"],
@@ -16,6 +16,12 @@
         "uiTheme": "vs",
         "path": "./themes/meu-tema-colorido-original.json",
         "description": "Uma representação original e minimalista do Visual Studio Code em cores claras."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Alegre",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-alegre.json",
+        "description": "Uma representação do tema clássico com cores fortes no editor."
       },
       {
         "label": "Meu Tema Claro Colorido Vibrante",
