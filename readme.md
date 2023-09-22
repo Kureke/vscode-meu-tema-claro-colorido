@@ -1,4 +1,4 @@
-# 🌈 Meu Tema Claro Colorido para VSCode (agora com tema escuro disponível)🎨
+# 🌈 Meu Tema Claro Colorido para VSCode (agora com temas escuros disponíveis🎨)
 
 **Ei, amante de cores!** Prepare-se para iluminar seu VSCode com este tema espetacular!
 
@@ -26,19 +26,29 @@ Deixe seu código brilhar com esta paleta vibrante que destaca os principais ele
 
 Mergulhe em um design moderno com cores suaves e tons equilibrados. É como um pôr do sol para o seu código!
 
-![Alegre](screenshots/contemp-screenshot.png)
+![Contemporâneo](screenshots/contemp-screenshot.png)
 
-### 😂 Meu Tema Claro Colorido Alegre
+### 🌆 Meu Tema Escuro Colorido Contemporâneo
 
-Uma versão alegre e colorida, para você sentir-se alegre em programar! E aqui vai uma piada: Por que os programadores preferem a escuridão? Porque a luz atrai bugs! 🐞
+Mergulhe em um design moderno com cores suaves e tons equilibrados. É como um anoitecer para o seu código!
 
-![Contemporâneo](screenshots/alegre-screenshot.png)
+![Escuro Contemporâneo](screenshots/contemp-e-screenshot.png)
+
+### 🕰️ Meu Tema Escuro Colorido Clássico
+
+Reviva a era clássica da programação com este tema que combina o melhor do passado com o presente. É como programar em um museu!
+
+![Escuro Clássico](screenshots/classico-e-screenshot.png)
+
+### 🤖 Meu Tema Escuro Colorido Escolhido pelo Chat GPT
+
+Criado com a ajuda da inteligência artificial, este tema foi meticulosamente planejado para oferecer uma experiência de codificação única e eficiente. O futuro é agora!
+
+![Escolha do Chat GPT](screenshots/chatgpt-e-screenshot.png)
 
 ### 🕰️ Meu Tema Claro Colorido Clássico
 
 Viaje no tempo com um retorno às cores clássicas do passado, mas com um toque moderno. Nostalgia em cada linha de código!
-
-![Clássico](screenshots/classico-screenshot.png)
 
 ### 🔍 Meu Tema Claro Colorido Alto Contraste
 

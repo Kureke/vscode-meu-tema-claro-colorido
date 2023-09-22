@@ -1,0 +1,117 @@
+{
+  "name": "Meu Tema Colorido Escuro Vibrante",
+  "type": "dark",
+  "colors": {
+    "activeBorder": "#000",
+    "activityBar.background": "#000",
+    "activityBar.foreground": "#afa",
+    "activityBar.hoverBackground": "#090909",
+    "activityBar.inactiveForeground": "#ddd",
+    "activityBarBadge.background": "#000",
+    "button.background": "#333",
+    "button.foreground": "#FFB",
+    "dropdown.background": "#333",
+    "dropdown.border": "#000",
+    "dropdown.foreground": "#fff",
+    "editor.background": "#090909",
+    "editor.foreground": "#fdf",
+    "editor.lineHighlightBackground": "#2a2a2a",
+    "editor.selectionBackground": "#037",
+    "editorHoverWidget.background": "#000",
+    "editorHoverWidget.foreground": "#fff",
+    "editorHoverWidget.hoverBackground": "#4c4c4c",
+    "editorLineNumber.foreground": "#0f0",
+    "editorLineNumber.activeForeground": "#06f",
+    "editorSuggestWidget.background": "#222",
+    "editorSuggestWidget.selectedBackground": "#333",
+    "editorWidget.background": "#222",
+    "editorWidget.hoverBackground": "#111",
+    "input.background": "#111",
+    "input.border": "#000",
+    "input.foreground": "#fff",
+    "list.activeSelectionBackground": "#037",
+    "list.activeSelectionForeground": "#fff",
+    "list.hoverBackground": "#151515",
+    "list.hoverForeground": "#fff",
+    "scrollbarSlider.activeBackground": "#030",
+    "scrollbarSlider.background": "#020",
+    "scrollbarSlider.hoverBackground": "#030",
+    "sideBar.background": "#000",
+    "statusBar.background": "#111111",
+    "statusBar.foreground": "#dfe",
+    "statusBarItem.hoverBackground": "#555",
+    "editorGroupHeader.tabsBackground": "#000",
+    "tab.activeBackground": "#222",
+    "tab.activeBorder": "#000",
+    "tab.activeForeground": "#0f0",
+    "tab.border": "#000",
+    "tab.inactiveBackground": "#111",
+    "tab.inactiveForeground": "#ddd",
+    "tab.unfocusedActiveBackground": "#3c3c3c",
+    "tab.unfocusedInactiveBackground": "#2c2c2c",
+    "terminal.foreground": "#fff",
+    "titleBar.activeBackground": "#111",
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveBackground": "#111",
+    "titleBar.inactiveForeground": "#eff"
+  },
+  "tokenColors": [
+    {
+      "name": "Comentários",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#080"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#ff3"
+      }
+    },
+    {
+      "name": "Funções",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#0af"
+      }
+    },
+    {
+      "name": "Variáveis",
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#f5f"
+      }
+    },
+    {
+      "name": "Palavras-chave",
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#ff0066"
+      }
+    },
+    {
+      "name": "Constantes",
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#fcf"
+      }
+    },
+    {
+      "name": "Números",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#b2f"
+      }
+    },
+    {
+      "name": "Delimitadores",
+      "scope": ["punctuation.definition", "punctuation.separator", "punctuation.terminator"],
+      "settings": {
+        "foreground": "#fff"
+      }
+    }
+    
+  ]
+}

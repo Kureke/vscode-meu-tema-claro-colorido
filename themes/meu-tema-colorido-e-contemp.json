@@ -1,0 +1,117 @@
+{
+  "name": "Meu Tema Escuro Contemporâneo",
+  "type": "dark",
+  "colors": {
+    "activeBorder": "#FF5733",
+    "activityBar.background": "#282828",
+    "activityBar.foreground": "#F2F2F2",
+    "activityBar.hoverBackground": "#3A3A3A",
+    "activityBar.inactiveForeground": "#A0A0A0",
+    "activityBarBadge.background": "#FF5733",
+    "button.background": "#FF5733",
+    "button.foreground": "#F2F2F2",
+    "dropdown.background": "#3A3A3A",
+    "dropdown.border": "#FF5733",
+    "dropdown.foreground": "#F2F2F2",
+    "editor.background": "#090909",
+    "editor.foreground": "#fdf",
+    "editor.lineHighlightBackground": "#2a2a2a",
+    "editor.selectionBackground": "#037",
+    "editorHoverWidget.background": "#282828",
+    "editorHoverWidget.foreground": "#F2F2F2",
+    "editorHoverWidget.hoverBackground": "#3A3A3A",
+    "editorLineNumber.foreground": "#060",
+    "editorLineNumber.activeForeground": "#06f",
+    "editorSuggestWidget.background": "#3A3A3A",
+    "editorSuggestWidget.selectedBackground": "#4A4A4A",
+    "editorWidget.background": "#282828",
+    "editorWidget.hoverBackground": "#3A3A3A",
+    "input.background": "#3A3A3A",
+    "input.border": "#FF5733",
+    "input.foreground": "#F2F2F2",
+    "list.activeSelectionBackground": "#FF5733",
+    "list.activeSelectionForeground": "#F2F2F2",
+    "list.hoverBackground": "#4A4A4A",
+    "list.hoverForeground": "#F2F2F2",
+    "scrollbarSlider.activeBackground": "#FF5733",
+    "scrollbarSlider.background": "#4A4A4A",
+    "scrollbarSlider.hoverBackground": "#FF5733",
+    "sideBar.background": "#282828",
+    "statusBar.background": "#282828",
+    "statusBar.foreground": "#F2F2F2",
+    "statusBarItem.hoverBackground": "#3A3A3A",
+    "editorGroupHeader.tabsBackground": "#282828",
+    "tab.activeBackground": "#3A3A3A",
+    "tab.activeBorder": "#FF5733",
+    "tab.activeForeground": "#F2F2F2",
+    "tab.border": "#4A4A4A",
+    "tab.inactiveBackground": "#282828",
+    "tab.inactiveForeground": "#A0A0A0",
+    "tab.unfocusedActiveBackground": "#3A3A3A",
+    "tab.unfocusedInactiveBackground": "#282828",
+    "terminal.foreground": "#F2F2F2",
+    "titleBar.activeBackground": "#282828",
+    "titleBar.activeForeground": "#F2F2F2",
+    "titleBar.inactiveBackground": "#1F1F1F",
+    "titleBar.inactiveForeground": "#A0A0A0"
+  },
+  "tokenColors": [
+    {
+      "name": "Comentários",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#080"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#ff3"
+      }
+    },
+    {
+      "name": "Funções",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#0af"
+      }
+    },
+    {
+      "name": "Variáveis",
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#f5f"
+      }
+    },
+    {
+      "name": "Palavras-chave",
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#ff0066"
+      }
+    },
+    {
+      "name": "Constantes",
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#fcf"
+      }
+    },
+    {
+      "name": "Números",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#b2f"
+      }
+    },
+    {
+      "name": "Delimitadores",
+      "scope": ["punctuation.definition", "punctuation.separator", "punctuation.terminator"],
+      "settings": {
+        "foreground": "#fff"
+      }
+    }
+    
+  ]
+}

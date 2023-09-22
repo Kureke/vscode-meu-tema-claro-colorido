@@ -2,12 +2,12 @@
   "name": "meu-tema-claro-colorido",
   "displayName": "Meu Tema Claro/Escuro Colorido",
   "description": "Um tema colorido com fundo claro/escuro para o VSCode.",
-  "version": "0.0.53",
+  "version": "0.0.58",
   "publisher": "Kureke",
   "icon": "images/icon.png",
   "categories": ["Themes"],
   "engines": {
-      "vscode": "^1.50.0"
+      "vscode": "^1.51.0"
   },
   "contributes": {
     "themes": [
@@ -50,9 +50,27 @@
       {
         "label": "Meu Tema Escuro Colorido Original",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-original-e.json",
+        "path": "./themes/meu-tema-colorido-e-original.json",
         "description": "Uma representação original e minimalista do Visual Studio Code em cores escuras."
-      },      
+      },
+      {
+        "label": "Meu Tema Escuro Colorido Clássico",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-e-classico.json",
+        "description": "Retorno às cores clássicas do passado, com uma reviravolta moderna e brilhante no editor."
+      },
+      {
+        "label": "Meu Tema Escuro Colorido Contemporâneo",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-e-contemp.json",
+        "description": "Um design moderno com cores suaves e tons equilibrados."
+      },
+      {
+        "label": "Meu Tema Escuro Colorido Escolhido pelo Chat GPT",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-e-gpt.json",
+        "description": "Uma palheta de cores escolhida pelo chat GPT."
+      },
       {
         "label": "Meu Tema Claro Colorido Mais Mal que o Capiroto",
         "uiTheme": "vs",
