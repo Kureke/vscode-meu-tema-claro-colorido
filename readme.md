@@ -10,12 +10,6 @@ Mergulhe na simplicidade com esta representação minimalista e original do Visu
 
 ![Original](screenshots/original-screenshot.png)
 
-### 🌚 Meu Tema Escuro Colorido Vibrante
-
-Quem disse que a escuridão não pode ser colorida? Experimente esta representação vibrante e original do Visual Studio Code em tema escuro. É uma festa noturna para seus olhos!
-
-![Escuro Original](screenshots/original-e-screenshot.png)
-
 ### 🎉 Meu Tema Claro Colorido Vibrante
 
 Deixe seu código brilhar com esta paleta vibrante que destaca os principais elementos do editor. Porque seu código merece uma festa!
@@ -39,6 +33,12 @@ Mergulhe em um design moderno com cores suaves e tons equilibrados. É como um a
 Reviva a era clássica da programação com este tema que combina o melhor do passado com o presente. É como programar em um museu!
 
 ![Escuro Clássico](screenshots/classico-e-screenshot.png)
+
+### 🌚 Meu Tema Escuro Original
+
+Quem disse que a escuridão não pode ser colorida? Experimente esta representação vibrante e original do Visual Studio Code em tema escuro. É uma festa noturna para seus olhos!
+
+![Escuro Original](screenshots/original-e-screenshot.png)
 
 ### 🤖 Meu Tema Escuro Colorido Escolhido pelo Chat GPT
 

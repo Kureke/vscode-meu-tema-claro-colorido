@@ -2,7 +2,7 @@
   "name": "meu-tema-claro-colorido",
   "displayName": "Meu Tema Claro/Escuro Colorido",
   "description": "Um tema colorido com fundo claro/escuro para o VSCode.",
-  "version": "0.0.58",
+  "version": "0.0.59",
   "publisher": "Kureke",
   "icon": "images/icon.png",
   "categories": ["Themes"],
