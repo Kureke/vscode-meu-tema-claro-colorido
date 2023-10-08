@@ -1,12 +1,17 @@
-# 🌈 Meu Tema Claro Colorido para VSCode (agora com temas escuros disponíveis🎨)
+# 🌈 Meu Tema Claro Colorido para VSCode (agora com temas escuros, e opções de negrito disponíveis🎨)
 
 **Ei, amante de cores!** Prepare-se para iluminar seu VSCode com este tema espetacular!
+
+## 📅 Atualizações Recentes
+
+- **07/10/2023** - Adicionada opção de negrito em alguns temas.
 
 ## 🎨 Temas Disponíveis
 
 ### 🌟 Meu Tema Claro Colorido Original
 
-Mergulhe na simplicidade com esta representação minimalista e original do Visual Studio Code em cores claras. Menos é mais!
+- **Normal**: Mergulhe na simplicidade com esta representação minimalista e original do Visual Studio Code em cores claras. Menos é mais!
+- **Negrito**: Dê ênfase ao seu código com a versão em negrito deste tema clássico!
 
 ![Original](screenshots/original-screenshot.png)
 
@@ -14,13 +19,17 @@ Mergulhe na simplicidade com esta representação minimalista e original do Visu
 
 Deixe seu código brilhar com esta paleta vibrante que destaca os principais elementos do editor. Porque seu código merece uma festa!
 
-![Vibrante](screenshots/vibrante-screenshot.png)
-
 ### 🌆 Meu Tema Claro Colorido Contemporâneo
 
-Mergulhe em um design moderno com cores suaves e tons equilibrados. É como um pôr do sol para o seu código!
+- **Normal**: Mergulhe em um design moderno com cores suaves e tons equilibrados. É como um pôr do sol para o seu código!
+- **Negrito**: Acentue as nuances modernas com a versão em negrito deste tema!
 
 ![Contemporâneo](screenshots/contemp-screenshot.png)
+
+### 🕰️ Meu Tema Claro Colorido Clássico
+
+- **Normal**: Viaje no tempo com um retorno às cores clássicas do passado, mas com um toque moderno. Nostalgia em cada linha de código!
+- **Negrito**: Reviva o passado com mais destaque usando a versão em negrito deste tema clássico!
 
 ### 🌆 Meu Tema Escuro Colorido Contemporâneo
 
@@ -45,10 +54,6 @@ Quem disse que a escuridão não pode ser colorida? Experimente esta representa�
 Criado com a ajuda da inteligência artificial, este tema foi meticulosamente planejado para oferecer uma experiência de codificação única e eficiente. O futuro é agora!
 
 ![Escolha do Chat GPT](screenshots/chatgpt-e-screenshot.png)
-
-### 🕰️ Meu Tema Claro Colorido Clássico
-
-Viaje no tempo com um retorno às cores clássicas do passado, mas com um toque moderno. Nostalgia em cada linha de código!
 
 ### 🔍 Meu Tema Claro Colorido Alto Contraste
 

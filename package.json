@@ -1,8 +1,8 @@
 {
   "name": "meu-tema-claro-colorido",
   "displayName": "Meu Tema Claro/Escuro Colorido",
-  "description": "Um tema colorido com fundo claro/escuro para o VSCode.",
-  "version": "0.0.59",
+  "description": "Um tema colorido para o VSCode, agora com opção de negrito no editor!",
+  "version": "0.0.69",
   "publisher": "Kureke",
   "icon": "images/icon.png",
   "categories": ["Themes"],
@@ -14,37 +14,67 @@
       {
         "label": "Meu Tema Claro Colorido Original",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-original.json",
+        "path": "./themes/meu-tema-colorido-c-original.json",
         "description": "Uma representação original e minimalista do Visual Studio Code em cores claras."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Original (negrito)",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-c-original-b.json",
+        "description": "Uma representação original com fonte em negrito."
       },
       {
         "label": "Meu Tema Claro Colorido Alegre",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-alegre.json",
+        "path": "./themes/meu-tema-colorido-c-alegre.json",
         "description": "Uma representação do tema clássico com cores fortes no editor."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Alegre (negrito)",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-c-alegre-b.json",
+        "description": "Uma representação do tema clássico com cores fortes e negrito no editor."
       },
       {
         "label": "Meu Tema Claro Colorido Vibrante",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-vibrante.json",
+        "path": "./themes/meu-tema-colorido-c-vibrante.json",
+        "description": "Uma paleta vibrante que destaca os principais elementos do editor."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Vibrante (negrito)",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-c-vibrante-b.json",
         "description": "Uma paleta vibrante que destaca os principais elementos do editor."
       },
       {
         "label": "Meu Tema Claro Colorido Contemporâneo",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-contemp.json",
+        "path": "./themes/meu-tema-colorido-c-contemp.json",
         "description": "Um design moderno com cores suaves e tons equilibrados."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Contemporâneo (negrito)",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-c-contemp-b.json",
+        "description": "Um design moderno com cores suaves e tons equilibrados com negrito no editor."
       },
       {
         "label": "Meu Tema Claro Colorido Clássico",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-classico.json",
+        "path": "./themes/meu-tema-colorido-c-classico.json",
+        "description": "Retorno às cores clássicas do passado, com uma reviravolta moderna."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Clássico (negrito)",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-c-classico-b.json",
         "description": "Retorno às cores clássicas do passado, com uma reviravolta moderna."
       },
       {
         "label": "Meu Tema Claro Colorido x-Alto Contraste",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-contraste.json",
+        "path": "./themes/meu-tema-colorido-c-contraste.json",
         "description": "Maximizando a legibilidade com contrastes altos e cores distintas."
       },
       {
@@ -74,7 +104,7 @@
       {
         "label": "Meu Tema Claro Colorido Mais Mal que o Capiroto",
         "uiTheme": "vs",
-        "path": "./themes/meu-tema-colorido-capeta.json",
+        "path": "./themes/meu-tema-colorido-c-capeta.json",
         "description": "Para quem quer se divertir com cores totalmente descoordenadas!"
       }
     ]
