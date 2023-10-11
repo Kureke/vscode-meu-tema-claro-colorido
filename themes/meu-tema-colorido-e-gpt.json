@@ -53,7 +53,21 @@
     "titleBar.activeBackground": "#2C3E50",
     "titleBar.activeForeground": "#ECF0F1",
     "titleBar.inactiveBackground": "#34495E",
-    "titleBar.inactiveForeground": "#95A5A6"
+    "titleBar.inactiveForeground": "#95A5A6",
+    "explorerItem.inactiveForeground": "#ccc",
+    "list.foreground": "#bbb",
+    "list.inactiveSelectionBackground": "#333",
+    "list.inactiveSelectionForeground": "#ccc",
+    "list.inactiveFocusBackground": "#444",
+    "sideBar.foreground": "#bbb",
+    "sideBarSectionHeader.background": "#333",
+    "sideBarSectionHeader.foreground": "#ccc",
+    "tab.foreground": "#bbb",
+    "breadcrumb.focusForeground": "#fdf",
+    "breadcrumb.activeSelectionForeground": "#fff",
+    "breadcrumbPicker.background": "#303030",
+    "editor.editorGhostText": "#ccc"
+
   },
   "tokenColors": [
     {

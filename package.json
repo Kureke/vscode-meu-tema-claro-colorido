@@ -2,7 +2,7 @@
   "name": "meu-tema-claro-colorido",
   "displayName": "Meu Tema Claro/Escuro Colorido",
   "description": "Um tema colorido para o VSCode, agora com opção de negrito no editor!",
-  "version": "0.0.69",
+  "version": "0.0.81",
   "publisher": "Kureke",
   "icon": "images/icon.png",
   "categories": ["Themes"],
@@ -24,13 +24,25 @@
         "description": "Uma representação original com fonte em negrito."
       },
       {
-        "label": "Meu Tema Claro Colorido Alegre",
+        "label": "Meu Tema Claro Colorido Praia",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-c-praia.json",
+        "description": "Uma brisa para o seu código, com as belezas de uma praia!"
+      },
+      {
+        "label": "Meu Tema Claro Colorido Praia (negrito)",
+        "uiTheme": "vs",
+        "path": "./themes/meu-tema-colorido-c-praia-b.json",
+        "description": "Uma brisa para o seu código, com as belezas de uma praia, versão em negrito para codar tomando sol."
+      },
+      {
+        "label": "Meu Tema Claro Colorido Super Alegre",
         "uiTheme": "vs",
         "path": "./themes/meu-tema-colorido-c-alegre.json",
         "description": "Uma representação do tema clássico com cores fortes no editor."
       },
       {
-        "label": "Meu Tema Claro Colorido Alegre (negrito)",
+        "label": "Meu Tema Claro Colorido Super Alegre (negrito)",
         "uiTheme": "vs",
         "path": "./themes/meu-tema-colorido-c-alegre-b.json",
         "description": "Uma representação do tema clássico com cores fortes e negrito no editor."

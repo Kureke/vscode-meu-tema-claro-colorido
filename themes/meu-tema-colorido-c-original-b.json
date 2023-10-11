@@ -3,7 +3,7 @@
   "type": "light",
   "colors": {
     "editor.background": "#ffffff",
-    "editor.foreground": "#000000",
+    "editor.foreground": "#070",
     "editor.lineHighlightBackground": "#e0e0e0",
     "editorLineNumber.foreground": "#888888",
     "activityBar.background": "#f0f0f0",
@@ -34,7 +34,7 @@
       "name": "Comentários",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#008000"
+        "foreground": "#aaa"
       }
     },
     {
