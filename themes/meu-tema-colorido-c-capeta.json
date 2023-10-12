@@ -1,0 +1,83 @@
+{
+  "name": "Tema Diabólico Claro com Editor Padrão",
+  "type": "light",
+  "colors": {
+    "editor.background": "#ffffff",
+    "editor.foreground": "#000000",
+    "editor.lineHighlightBackground": "#e0e0e0",
+    "editorLineNumber.foreground": "#888888",
+    "activityBar.background": "#FFA07A",
+    "sideBar.background": "#DDA0DD",
+    "activityBar.foreground": "#FFFF00",
+    "activityBarBadge.background": "#8A2BE2",
+    "statusBar.background": "#00FF00",
+    "statusBar.foreground": "#FF00FF",
+    "statusBarItem.hoverBackground": "#1E90FF",
+    "titleBar.activeBackground": "#FFD700",
+    "titleBar.activeForeground": "#DC143C",
+    "titleBar.inactiveBackground": "#20B2AA",
+    "titleBar.inactiveForeground": "#FF4500",
+    "button.background": "#7FFF00",
+    "dropdown.background": "#D2691E",
+    "dropdown.foreground": "#B22222",
+    "dropdown.border": "#8B008B",
+    "input.background": "#5F9EA0",
+    "input.foreground": "#7CFC00",
+    "input.border": "#FF6347",
+    "terminal.foreground": "#ADFF2F",
+    "scrollbarSlider.background": "#FF0000",
+    "scrollbarSlider.hoverBackground": "#DC143C",
+    "scrollbarSlider.activeBackground": "#B22222"
+  },
+  "tokenColors": [
+    {
+      "name": "Comentários",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#008000"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#ff4500"
+      }
+    },
+    {
+      "name": "Funções",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#0000ff"
+      }
+    },
+    {
+      "name": "Variáveis",
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#800080"
+      }
+    },
+    {
+      "name": "Palavras-chave",
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#ff1493"
+      }
+    },
+    {
+      "name": "Constantes",
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#8b0000"
+      }
+    },
+    {
+      "name": "Números",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#483d8b"
+      }
+    }
+  ]
+}

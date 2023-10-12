@@ -1,0 +1,89 @@
+{
+  "name": "Meu Tema Colorido",
+  "type": "light",
+  "colors": {
+    "editor.background": "#ffffff",
+    "editor.foreground": "#070",
+    "editor.lineHighlightBackground": "#e0e0e0",
+    "editorLineNumber.foreground": "#888888",
+    "activityBar.background": "#f0f0f0",
+    "sideBar.background": "#f5f5f5",
+    "activityBar.foreground": "#ff0000",
+    "activityBarBadge.background": "#ff4500",
+    "statusBar.background": "#ffa500",
+    "statusBar.foreground": "#ffffff",
+    "statusBarItem.hoverBackground": "#ff69b4",
+    "titleBar.activeBackground": "#00ff00",
+    "titleBar.activeForeground": "#000000",
+    "titleBar.inactiveBackground": "#add8e6",
+    "titleBar.inactiveForeground": "#000000",
+    "button.background": "#ff00ff",
+    "dropdown.background": "#87ceeb",
+    "dropdown.foreground": "#000000",
+    "dropdown.border": "#ffa07a",
+    "input.background": "#f0e68c",
+    "input.foreground": "#000000",
+    "input.border": "#20b2aa",
+    "terminal.foreground": "#9400d3",
+    "scrollbarSlider.background": "#b0e57c",
+    "scrollbarSlider.hoverBackground": "#9edd58",
+    "scrollbarSlider.activeBackground": "#8ed348"
+  },
+  "tokenColors": [
+    {
+      "name": "Comentários",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#aaa"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#ff4500",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Funções",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#0000ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Variáveis",
+      "scope": ["variable"],
+      "settings": {
+        "foreground": "#800080",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Palavras-chave",
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#ff1493",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Constantes",
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#8b0000",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Números",
+      "scope": ["constant.numeric"],
+      "settings": {
+        "foreground": "#483d8b",
+        "fontStyle": "bold"
+      }
+    }
+  ]
+}
