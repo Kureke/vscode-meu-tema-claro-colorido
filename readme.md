@@ -4,29 +4,33 @@
 **Ei, amante de cores!** 🌟 Prepare-se para iluminar seu VSCode com este tema espetacular!
 
 ---
-## 📅 Atualizações Recentes
+## 📅 Atualizações Recentes (3)
 
-- **12/10/2023** - 🎉 Adicionados tema de festa, em comemoração aos **100 downloads** em menos de 1 mês, e criado tema Pink.
-- **10/10/2023** - Adicionados tema de praia / Corrigidos alguns bugs em temas escuros.
-- **08/10/2023** - Ajustes nas cores do editor e comentários dos temas em negrito.
-- **07/10/2023** - Adicionada opção de negrito em alguns temas.
+- 16/10/2023 - Adicionados temas para dias chuvosos☔, verão🌞 e primavera🌸.
+- 12/10/2023 - 🎉 Adicionados tema de festa, em comemoração aos **100 downloads** em menos de 1 mês, e criado tema Pink.
+- 10/10/2023 - Adicionados tema de praia / Corrigidos alguns bugs em temas escuros.
 
-## 🎨 22 Opções de Cores Disponíveis
+---
+## 🎨 **29 Opções de cores** criadas especialmente para o seu editor!
 
-- 🌟 Meu Tema Claro Colorido Original (Normal e Negrito)
-- 🎉 Meu Tema Claro Colorido Vibrante (Normal e Negrito)
-- 🌆 Meu Tema Claro Colorido Contemporâneo (Normal e Negrito)
-- 🕰️ Meu Tema Claro Colorido Clássico (Normal e Negrito)
-- 🎊 Meu Tema Claro Colorido Festa (Normal e Negrito)
-- 🎀 Meu Tema Claro Colorido Pink (Normal e Negrito)
-- 🔍 Meu Tema Claro Colorido Alto Contraste
-- 😈 Meu Tema Claro Colorido Mais Mal que o Capiroto
-- 🏝️ Meu Tema Claro Praiano (Normal e Negrito)
-- 🌝 Meu Tema Claro Super Alegre (Normal e Negrito)
-- 🌆 Meu Tema Escuro Colorido Contemporâneo
-- 🕰️ Meu Tema Escuro Colorido Clássico
-- 🌚 Meu Tema Escuro Original
-- 🤖 Meu Tema Escuro Colorido Escolhido pelo Chat GPT
+- 🌟 [Meu Tema Claro Colorido Original](#) (Normal e Negrito)
+- 🎉 [Meu Tema Claro Colorido Vibrante](#) (Normal e Negrito)
+- 🌆 [Meu Tema Claro Colorido Contemporâneo](#) (Normal e Negrito)
+- 🕰️ [Meu Tema Claro Colorido Clássico](#) (Normal e Negrito)
+- 🎊 [Meu Tema Claro Colorido Festa](#) (Normal e Negrito)
+- 🎀 [Meu Tema Claro Colorido Pink](#) (Normal e Negrito)
+- 🔍 [Meu Tema Claro Colorido Alto Contraste](#)
+- 😈 [Meu Tema Claro Colorido Mais Mal que o Capiroto](#)
+- 🏝️ [Meu Tema Claro Praiano](#) (Normal e Negrito)
+- ☔ [Meu Tema Claro Um Dia de Chuva](#) (Normal e Negrito)
+- 🌞 [Meu Tema Claro Um Dia Quente de Verão](#) (Normal e Negrito)
+- 🌸 [Meu Tema Claro Um Dia Florido de Primavera](#) (Normal e Negrito)
+- 🌝 [Meu Tema Claro Super Alegre](#) (Normal e Negrito)
+- 🤖 [Meu Tema Claro Escolhido pelo Chat GPT](#)
+- 🌆 [Meu Tema Escuro Colorido Contemporâneo](#)
+- 🕰️ [Meu Tema Escuro Colorido Clássico](#)
+- 🌚 [Meu Tema Escuro Original](#)
+- 🤖 [Meu Tema Escuro Escolhido pelo Chat GPT](#)
 
 🌚 **Por que adicionamos temas escuros?** ~~Porque mesmo amantes de cores precisam de uma pausa para seus olhos~~. **Apenas para nos lembrar do quanto amamos os temas claros!** 🌝
 
@@ -36,15 +40,25 @@
 ## 📸 Screenshots
 
 ![Screenshot 1](screenshots/01.png)
+
 ![Screenshot 2](screenshots/02.png)
+
 ![Screenshot 3](screenshots/03.png)
+
 ![Screenshot 4](screenshots/04.png)
+
 ![Screenshot 5](screenshots/05.png)
+
 ![Screenshot 6](screenshots/06.png)
+
 ![Screenshot 7](screenshots/07.png)
+
 ![Screenshot 8](screenshots/08.png)
+
 ![Screenshot 9](screenshots/09.png)
+
 ![Screenshot 10](screenshots/10.png)
+
 ![Screenshot 11](screenshots/11.png)
 
 ## 🚀 Instalação
