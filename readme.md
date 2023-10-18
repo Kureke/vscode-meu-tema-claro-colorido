@@ -6,34 +6,36 @@
 ---
 ## 📅 Atualizações Recentes (3)
 
+- 17/10/2023 - Adicionados tema de casamento e tema da noiva, em comemoração ao desenvolvedor e a esposa, que hoje se conhecem há 5 anos 💍.
 - 16/10/2023 - Adicionados temas para dias chuvosos☔, verão🌞 e primavera🌸.
 - 12/10/2023 - 🎉 Adicionados tema de festa, em comemoração aos **100 downloads** em menos de 1 mês, e criado tema Pink.
-- 10/10/2023 - Adicionados tema de praia / Corrigidos alguns bugs em temas escuros.
 
 ---
-## 🎨 **29 Opções de cores** criadas especialmente para o seu editor!
+## 🎨 **33 Opções de cores** criadas especialmente para o seu editor!
 
-- 🌟 [Meu Tema Claro Colorido Original](#) (Normal e Negrito)
-- 🎉 [Meu Tema Claro Colorido Vibrante](#) (Normal e Negrito)
-- 🌆 [Meu Tema Claro Colorido Contemporâneo](#) (Normal e Negrito)
-- 🕰️ [Meu Tema Claro Colorido Clássico](#) (Normal e Negrito)
-- 🎊 [Meu Tema Claro Colorido Festa](#) (Normal e Negrito)
-- 🎀 [Meu Tema Claro Colorido Pink](#) (Normal e Negrito)
-- 🔍 [Meu Tema Claro Colorido Alto Contraste](#)
-- 😈 [Meu Tema Claro Colorido Mais Mal que o Capiroto](#)
-- 🏝️ [Meu Tema Claro Praiano](#) (Normal e Negrito)
-- ☔ [Meu Tema Claro Um Dia de Chuva](#) (Normal e Negrito)
-- 🌞 [Meu Tema Claro Um Dia Quente de Verão](#) (Normal e Negrito)
-- 🌸 [Meu Tema Claro Um Dia Florido de Primavera](#) (Normal e Negrito)
-- 🌝 [Meu Tema Claro Super Alegre](#) (Normal e Negrito)
-- 🤖 [Meu Tema Claro Escolhido pelo Chat GPT](#)
-- 🌆 [Meu Tema Escuro Colorido Contemporâneo](#)
-- 🕰️ [Meu Tema Escuro Colorido Clássico](#)
-- 🌚 [Meu Tema Escuro Original](#)
-- 🤖 [Meu Tema Escuro Escolhido pelo Chat GPT](#)
+- 🌟 [Meu Tema Claro Colorido Original](# "Onde tudo começou. A essência da cor na sua forma mais pura!") (Normal e Negrito)
+- 🎉 [Meu Tema Claro Colorido Vibrante](# "Porque o seu código merece uma festa de cores todos os dias!") (Normal e Negrito)
+- 🌆 [Meu Tema Claro Colorido Contemporâneo](# "Quando a tradição encontra a inovação. Cores modernas para codificadores modernos!") (Normal e Negrito)
+- 🕰️ [Meu Tema Claro Colorido Clássico](# "Um aceno para os bons e velhos tempos. Elegância atemporal.") (Normal e Negrito)
+- 🎊 [Meu Tema Claro Colorido Festa](# "Porque todo dia é uma celebração quando você está codificando!") (Normal e Negrito)
+- 💍 [Meu Tema Claro Colorido de Casamento](# "O amor está no ar... e nas suas linhas de código!") (Normal e Negrito)
+- 💕 [Meu Tema Claro Colorido da Noiva](# "Tão suave e delicado quanto um véu de noiva.") (Normal e Negrito)
+- 🎀 [Meu Tema Claro Colorido Pink](# "Solte a diva programadora que há em você!") (Normal e Negrito)
+- 🔍 [Meu Tema Claro Colorido Alto Contraste](# "Porque os detalhes importam. Veja cada linha em destaque!")
+- 😈 [Meu Tema Claro Colorido Mais Mal que o Capiroto](# "Quando você quer codificar com uma pitada de travessura!")
+- 🏝️ [Meu Tema Claro Praiano](# "Traga a brisa do mar para o seu editor!") (Normal e Negrito)
+- ☔ [Meu Tema Claro Um Dia de Chuva](# "Deixe a melodia da chuva inspirar seu código!") (Normal e Negrito)
+- 🌞 [Meu Tema Claro Um Dia Quente de Verão](# "Quando o seu código é tão quente quanto um dia de verão!") (Normal e Negrito)
+- 🌸 [Meu Tema Claro Um Dia Florido de Primavera](# "Deixe a primavera florescer em seu editor!") (Normal e Negrito)
+- 🌝 [Meu Tema Claro Super Alegre](# "Porque o humor é o melhor remédio... depois de um bom código!") (Normal e Negrito)
+- 🤖 [Meu Tema Claro Escolhido pelo Chat GPT](# "Escolhido por inteligência artificial, aprovado por humanos!")
+- 🌆 [Meu Tema Escuro Colorido Contemporâneo](# "A escuridão encontra a cor. O yin e yang do design!")
+- 🕰️ [Meu Tema Escuro Colorido Clássico](# "Uma dose de nostalgia, agora em modo escuro.")
+- 🌚 [Meu Tema Escuro Original](# "Porque às vezes, menos é mais.")
+- 🤖 [Meu Tema Escuro Escolhido pelo Chat GPT](# "A noite é mais escura antes do amanhecer. E este tema prova isso!")
+
 
 🌚 **Por que adicionamos temas escuros?** ~~Porque mesmo amantes de cores precisam de uma pausa para seus olhos~~. **Apenas para nos lembrar do quanto amamos os temas claros!** 🌝
-
 
 ---
 
