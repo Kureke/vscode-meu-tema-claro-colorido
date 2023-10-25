@@ -4,14 +4,15 @@
 **Ei, amante de cores!** 🌟 Prepare-se para iluminar seu VSCode com este tema espetacular!
 
 ---
-## 📅 Atualizações Recentes (3)
+## 📅 Atualizações Recentes (4)
 
-- 17/10/2023 - Adicionados tema de casamento e tema da noiva, em comemoração ao desenvolvedor e a esposa, que hoje se conhecem há 5 anos 💍.
+- 24/10/2023 - Adicionados mais 2 temas escuros festivos🌚, para você programar com alegria🎉.
+- 17/10/2023 - Criados temas casamento e noiva, em comemoração ao desenvolvedor e a esposa (5 anos de namoro)💍.
 - 16/10/2023 - Adicionados temas para dias chuvosos☔, verão🌞 e primavera🌸.
-- 12/10/2023 - 🎉 Adicionados tema de festa, em comemoração aos **100 downloads** em menos de 1 mês, e criado tema Pink.
+- 12/10/2023 - 🎉 Adicionado tema de festa, em comemoração aos **100 downloads** em menos de 1 mês.
 
 ---
-## 🎨 **33 Opções de cores** criadas especialmente para o seu editor!
+## 🎨 **35 Opções de cores** criadas especialmente para o seu editor!
 
 - 🌟 [Meu Tema Claro Colorido Original](# "Onde tudo começou. A essência da cor na sua forma mais pura!") (Normal e Negrito)
 - 🎉 [Meu Tema Claro Colorido Vibrante](# "Porque o seu código merece uma festa de cores todos os dias!") (Normal e Negrito)
@@ -31,6 +32,8 @@
 - 🤖 [Meu Tema Claro Escolhido pelo Chat GPT](# "Escolhido por inteligência artificial, aprovado por humanos!")
 - 🌆 [Meu Tema Escuro Colorido Contemporâneo](# "A escuridão encontra a cor. O yin e yang do design!")
 - 🕰️ [Meu Tema Escuro Colorido Clássico](# "Uma dose de nostalgia, agora em modo escuro.")
+- 🎉 [Meu Tema Escuro Colorido Festa](# "Uma festa de cores no seu código.")
+- 🍷 [Meu Tema Escuro Colorido Bebedeira](# "Para você se embebedar de códigos durante a programação.")
 - 🌚 [Meu Tema Escuro Original](# "Porque às vezes, menos é mais.")
 - 🤖 [Meu Tema Escuro Escolhido pelo Chat GPT](# "A noite é mais escura antes do amanhecer. E este tema prova isso!")
 
