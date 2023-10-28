@@ -1,23 +1,18 @@
 # 🌈 Meu Tema Claro Colorido para VSCode 
-### **Agora com temas escuros disponíveis** 🎨
 
 **Ei, amante de cores!** 🌟 Prepare-se para iluminar seu VSCode com este tema espetacular!
 
----
-## 📅 Atualizações Recentes (4)
-
-- 24/10/2023 - Adicionados mais 2 temas escuros festivos🌚, para você programar com alegria🎉.
-- 17/10/2023 - Criados temas casamento e noiva, em comemoração ao desenvolvedor e a esposa (5 anos de namoro)💍.
-- 16/10/2023 - Adicionados temas para dias chuvosos☔, verão🌞 e primavera🌸.
-- 12/10/2023 - 🎉 Adicionado tema de festa, em comemoração aos **100 downloads** em menos de 1 mês.
+🌚 **Por que adicionamos temas escuros?** ~~Porque mesmo amantes de cores precisam de uma pausa para seus olhos~~. **Apenas para nos lembrar do quanto amamos os temas claros!** 🌝
 
 ---
-## 🎨 **35 Opções de cores** criadas especialmente para o seu editor!
+## 🎨 **41 Opções de cores** criadas especialmente para o seu editor!
 
 - 🌟 [Meu Tema Claro Colorido Original](# "Onde tudo começou. A essência da cor na sua forma mais pura!") (Normal e Negrito)
 - 🎉 [Meu Tema Claro Colorido Vibrante](# "Porque o seu código merece uma festa de cores todos os dias!") (Normal e Negrito)
 - 🌆 [Meu Tema Claro Colorido Contemporâneo](# "Quando a tradição encontra a inovação. Cores modernas para codificadores modernos!") (Normal e Negrito)
 - 🕰️ [Meu Tema Claro Colorido Clássico](# "Um aceno para os bons e velhos tempos. Elegância atemporal.") (Normal e Negrito)
+- 👔 [Meu Tema Claro Colorido Elegante](# "Elegância e simplicidade no mesmo estilo, versões em cinza ou azul.") (Normal e Negrito)
+- 💎 [Meu Tema Claro Colorido Deserto Misterioso](# "Para você desvendar os mistérios do seu código.") (Normal e Negrito)
 - 🎊 [Meu Tema Claro Colorido Festa](# "Porque todo dia é uma celebração quando você está codificando!") (Normal e Negrito)
 - 💍 [Meu Tema Claro Colorido de Casamento](# "O amor está no ar... e nas suas linhas de código!") (Normal e Negrito)
 - 💕 [Meu Tema Claro Colorido da Noiva](# "Tão suave e delicado quanto um véu de noiva.") (Normal e Negrito)
@@ -37,8 +32,6 @@
 - 🌚 [Meu Tema Escuro Original](# "Porque às vezes, menos é mais.")
 - 🤖 [Meu Tema Escuro Escolhido pelo Chat GPT](# "A noite é mais escura antes do amanhecer. E este tema prova isso!")
 
-
-🌚 **Por que adicionamos temas escuros?** ~~Porque mesmo amantes de cores precisam de uma pausa para seus olhos~~. **Apenas para nos lembrar do quanto amamos os temas claros!** 🌝
 
 ---
 
@@ -65,6 +58,16 @@
 ![Screenshot 10](screenshots/10.png)
 
 ![Screenshot 11](screenshots/11.png)
+
+---
+## 📅 Atualizações Recentes (4)
+
+- **27/10/2023** - 🎉 Celebramos as 200 instalações adicionando 6 novos temas.
+- **24/10/2023** - 🌚 Mais 2 temas escuros para programar com estilo e alegria.
+- **17/10/2023** - 💍 Dois temas especiais em celebração dos 5 anos de namoro do desenvolvedor.
+- **16/10/2023** - 🌦️ Temas inspirados em dias chuvosos☔, verão🌞 e primavera🌸.
+
+---
 
 ## 🚀 Instalação
 
