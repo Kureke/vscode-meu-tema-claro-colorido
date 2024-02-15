@@ -8,6 +8,8 @@
 ---
 
 ## 🎨 51 Opções de Temas - Porque escolher é viver!
+![Gif 1](screenshots/gif01.gif)
+
 - 🌟 **[(Claro) Original](#)** - A base de tudo. Puro como água mineral.
 - 🎉 **[(Claro) Vibrante](#)** - Tão animado que quase sai dançando.
 - 🌆 **[(Claro) Contemporâneo](#)** - Para os moderninhos de plantão.
