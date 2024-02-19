@@ -7,7 +7,7 @@
 
 ---
 
-## 🎨 51 Opções de Temas - Porque escolher é viver!
+## 🎨 59 Opções de Temas - Porque escolher é viver!
 ![Gif 1](screenshots/gif01.gif)
 
 - 🌟 **[(Claro) Original](#)** - A base de tudo. Puro como água mineral.
@@ -30,6 +30,7 @@
 - 🌸 **[(Claro) Um Dia Florido de Primavera](#)** - Renovação e alegria primaveril.
 - ❄️ **[(Claro) Um Dia de Inverno](#)** - Tons frios para refrescar a tela.
 - 🌝 **[(Claro) Super Alegre](#)** - Um sorriso em cada caractere.
+- 🤖 **[(Claro) Windows 98 e XP](#)** - Revivendo o passado.
 - 🤖 **[(Claro) Escolhido pelo Chat GPT](#)** - A inteligência artificial também tem bom gosto.
 - 🧙‍♂️ **[(Escuro) Original](#)** - A noite é mais escura antes do amanhecer... e do seu código brilhar.
 - 🎩 **[(Escuro) Clássico](#)** - Elegância noturna, sem olheiras.
