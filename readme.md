@@ -7,7 +7,7 @@
 
 ---
 
-## 🎨 59 Opções de Temas - Porque escolher é viver!
+## 🎨 61 Opções de Temas - Porque escolher é viver!
 ![Gif 1](screenshots/gif01.gif)
 
 - 🌟 **[(Claro) Original](#)** - A base de tudo. Puro como água mineral.
@@ -75,6 +75,8 @@ Mergulhe numa viagem visual através de nossos temas incríveis! Aqui estão alg
 
 ## 📅 Novidades Fresquinhas
 
+- **25/02/2024** - 💡 Ajustes nas cores do editor para Json e CSS e adição de mais 2 temas.
+- **16/02/2024** - 🤝 Temas do Windows 98 e XP, para lembrar do passado!
 - **14/02/2024** - 🎉 Temas de carnaval para festar o code e café para acelerar!
 - **14/12/2023** - 🎉 4 novos temas para desbancar os fogos de ano novo!
 - **27/10/2023** - 🚀 Mais 6 temas porque a gente não sabe parar.
